@@ -1,7 +1,7 @@
 @charset "utf-8";
 
-@import 'foundation';
-@import 'motion-ui';
+@import '../../../node_modules/foundation-sites/scss/foundation.scss';
+@import '../../../node_modules/motion-ui/src/motion-ui.scss';
 @import 'settings';
 
 // Global styles
